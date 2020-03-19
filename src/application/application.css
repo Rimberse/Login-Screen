@@ -1,0 +1,20 @@
+.SceneStyle{
+	-fx-background-Color: #1E90FF;
+	-fx-spacing: 15;
+}
+.CheckBoxStyle{
+	-fx-font-size: 12;
+	-fx-text-fill: Snow;
+	-fx-highlight-fill: derive(-fx-control-inner-background,-20%);
+	-fx-highlight-text-fill: -fx-text-inner-color;
+}
+
+.LogInButtonStyle{
+	-fx-font-size: 35;
+	-fx-weight: BOLD;
+	-fx-font-family: Times New Roman;
+	-fx-background-color: Green;
+	-fx-text-fill: Snow;
+	-fx-highlight-fill: derive(-fx-control-inner-background,-20%);
+	-fx-highlight-text-fill: -fx-text-inner-color;
+}
